@@ -1,2 +1,9 @@
 h1 {
     color: red;
+}
+.black {
+    background-color: black;
+    color: white;
+    display: block;
+    width: fit-content;
+}
