@@ -7,3 +7,9 @@ h1 {
     display: block;
     width: fit-content;
 }
+.red {
+    background-color: darkred;
+    color: green;
+    display: block;
+    width: fit-content;
+}
