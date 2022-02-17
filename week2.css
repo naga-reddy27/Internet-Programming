@@ -13,3 +13,6 @@ h1 {
     display: block;
     width: fit-content;
 }
+.myclass {
+    color: green;
+}
