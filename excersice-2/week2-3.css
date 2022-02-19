@@ -11,12 +11,3 @@
     display: table;
     clear: both;
   }
-  
-  .btn:hover {
-    background-color: #ddd;
-  }
-  
-  .btn.active {
-    background-color: #666;
-    color: white;
-  }
