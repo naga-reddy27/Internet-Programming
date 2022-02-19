@@ -15,3 +15,11 @@
   padding-top: 0cm;
   height: 160px;
 }
+/* Clear floats after the columns */
+.row:after {
+  float: left;
+  display: table;
+  clear: both;
+}
+</style>
+</head>
