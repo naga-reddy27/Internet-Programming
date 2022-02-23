@@ -5,12 +5,12 @@ h1 {
     background-color: black;
     color: white;
     display: block;
-    width: fit-content;
+    width: max-content;
 }
 .red {
     background-color: darkred;
     color: green;
-    display: block;
+    display: inline; 
     width: fit-content;
 }
 .myclass {
